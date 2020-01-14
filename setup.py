@@ -50,7 +50,7 @@ setup(
     include_package_data=True,
  
     # Une url qui pointe vers la page officielle de votre lib
-    url='http://github.com/sametmax/sm_lib',
+    url='http://github.com/Hako93/utils_hak',
  
     # Il est d'usage de mettre quelques metadata à propos de sa lib
     # Pour que les robots puissent facilement la classer.
