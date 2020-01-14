@@ -7,7 +7,7 @@ reminiscent.
 
 Vous pouvez l'installer avec pip:
 
-    pip install utils
+    pip install utils_hak
 
 Exemple d'usage:
 
