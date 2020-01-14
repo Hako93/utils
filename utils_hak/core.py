@@ -1,10 +1,10 @@
 from datetime import datetime
  
- __all__ = ['proclamer']
+__all__ = ['proclamer']
  
  
 def proclamer():
-    print "[%s] Sam et Max, c'est bien" % datetime.now()
+    print ("Sam et Max, c'est bien",datetime.now())
  
  
 if __name__ == "__main__":
