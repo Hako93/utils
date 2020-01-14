@@ -1,4 +1,4 @@
-SM Lib - Proclame la bonne parole de sieurs Sam et Max
+SM Lib - Proclame la bonne parole de Hako
 ========================================================
 
 Ce module proclame la bonne parole de sieurs Sam et Max. Puissent-t-ils
